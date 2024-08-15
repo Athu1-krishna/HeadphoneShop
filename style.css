@@ -611,30 +611,8 @@
 .icons a:hover{
   transform: scale(1.5);
 }
-.footer-nav{
-  margin: 30px 0;
-}
-.footer-nav ul{
-  display: flex;
-  justify-content: center;
-  list-style: none;
-  padding-bottom: 2rem;
-}
-.footer-nav li a{
-  font-size: 14px;
-  display: inline-block;
-  padding: 18px;
-  text-decoration: none;
-  text-align: center;
-  transition: 0.4s ease-in-out;
-  position: relative;
-  text-transform: uppercase;
-  font-weight: 500;
-  color: #0c0c0c;
-}
-.footer-nav li a:hover{
-  color: #F42C37;
-}
+
+
 #designer{
   opacity: 0.7;
   font-weight: 600;
